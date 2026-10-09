@@ -10,12 +10,8 @@ The goal of this assignment is to compare **Pandas** with another Python data-pr
 
 | Name | Student ID | Role |
 |---|---|---|
-| Member 1 | XXXXXXXX | Leader |
-| Member 2 | XXXXXXXX | Member |
-| Member 3 | XXXXXXXX | Member |
-| Member 4 | XXXXXXXX | Member |
-| Member 5 | XXXXXXXX | Member |
-| Member 6 | XXXXXXXX | XXX |
+| Reena Aloraini | 2220002781| Leader |
+
 
 > Remove any unused member row if your group has fewer than 6 members.
 
@@ -30,7 +26,7 @@ The group must choose **one public dataset** that meets all of the following req
 
 ### Dataset Link
 
-[Add your dataset link here](YOUR_DATASET_LINK)
+[Add your dataset link here](https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews?resource=download)
 
 ##  Requirements
 
@@ -91,7 +87,7 @@ A recommended repository structure is:
 
 The repository must be **public** so that the submitted link can be opened without requiring a login.
 
-**Repository:** [Add your GitHub repository link here](YOUR_GITHUB_REPOSITORY_LINK)
+**Repository:** [Add your GitHub repository link here](https://github.com/ReenaAloraini/ARTI303)
 
 ## Submission
 
